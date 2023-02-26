@@ -23,7 +23,7 @@ public class checkSubstringOfAString {
 		
 		System.out.println(isSubstring(str,subStr));
 	}
-	//First method 
+	//My First method 
 	//time complexity-> O(n*m)
 	//space complexity->O(1)
 	public static boolean checkSubstring(String str1, String str2) {
